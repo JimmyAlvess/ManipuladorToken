@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Net8BearerToken.props" />
+</Project>
